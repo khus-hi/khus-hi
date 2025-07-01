@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khushi Teli 👋</h1>
+<h1 align="center">Hi, I'm Khushi 👋</h1>
 
 <p align="center">
   💻 Passionate about ML, DL & Automation | 🚀 Exploring Real-World AI Applications
