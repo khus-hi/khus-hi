@@ -40,17 +40,3 @@
 🏃‍♀️ **Human Activity Recognition**  
 🛠 Sensor Data | SVM | Random Forest  
 📄 Classified daily activities (e.g., walking, sitting) using smartphone sensor data.
-
----
-
-## 🛠️ Tech Stack
-'''text
-Languages     : Python, SQL, Java, HTML, CSS
-
-ML Tools      : Scikit-learn, TensorFlow, Keras, Pandas, Matplotlib, Seaborn
-
-Automation    : Power Automate, Selenium, Allure Reports
-
-Frontend      : Angular, Ionic, Figma
-
-Dev Tools     : Git, GitHub, Jupyter, VSCode, Colab
