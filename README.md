@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushi Teli 👋</h1>
 
 <p align="center">
-  🎓 MS in Data Science @ Boston University | 💻 Passionate about ML, DL & Automation | 🚀 Exploring Real-World AI Applications
+  💻 Passionate about ML, DL & Automation | 🚀 Exploring Real-World AI Applications
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## 🛠️ Tech Stack
-
+'''text
 Languages     : Python, SQL, Java, HTML, CSS
 
 ML Tools      : Scikit-learn, TensorFlow, Keras, Pandas, Matplotlib, Seaborn
