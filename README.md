@@ -11,7 +11,7 @@
 - 💡 Data science enthusiast with a background in automation, web dev, and ML.
 - 🔭 Currently working on applying machine learning to medical imaging and behavioral prediction tasks.
 - 🎯 Interested in building intelligent systems that solve real-world problems.
-- 📬 Reach me at: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:your@email.com)
+- 📬 Reach me at: [LinkedIn](https://linkedin.com/in/teli-khushi) | [Email](mailto:teli.khushi@gmail.com)
 
 ---
 
