@@ -46,7 +46,11 @@
 ## 🛠️ Tech Stack
 
 Languages     : Python, SQL, Java, HTML, CSS
+
 ML Tools      : Scikit-learn, TensorFlow, Keras, Pandas, Matplotlib, Seaborn
+
 Automation    : Power Automate, Selenium, Allure Reports
+
 Frontend      : Angular, Ionic, Figma
+
 Dev Tools     : Git, GitHub, Jupyter, VSCode, Colab
