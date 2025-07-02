@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushi 👋</h1>
 
 <p align="center">
-  💻 Passionate about ML, DL & Automation | 🚀 Exploring Real-World AI Applications
+  💻 Passionate about Data Science, Machine Learning and Artificial Intelligence | 🚀 Exploring Real-World AI Applications
 </p>
 
 ---
